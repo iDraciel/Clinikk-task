@@ -1,0 +1,14 @@
+.stats {
+  margin-left: 12vh;
+  margin-top: 3vh;
+  width: 66vh;
+}
+.headerOne {
+  font-weight: 700;
+  font-family: 'Baloo Bhai 2', cursive;
+  font-size: 24px;
+}
+
+#charts {
+  font-family: 'Baloo Bhai 2', cursive;
+}
